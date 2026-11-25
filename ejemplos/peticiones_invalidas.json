@@ -1,0 +1,8 @@
+[
+  {"sepal_length": "5.1", "sepal_width": 3.5, "petal_length": 1.4, "petal_width": 0.2},
+  {"sepal_length": 5.1, "sepal_width": 3.5, "petal_length": 1.4, "petal_width": true},
+  {"sepal_length": 5.1, "sepal_width": null, "petal_length": 1.4, "petal_width": 0.2},
+  {"sepal_length": 5.1, "sepal_width": 3.5, "petal_length": 1.4, "petal_width": 0.2, "color": "azul"},
+  {"sepal_length": 51, "sepal_width": 35, "petal_length": 14, "petal_width": 2},
+  {"sepal_length": 5.1, "sepal_width": 3.5, "petal_length": 1.4}
+]

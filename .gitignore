@@ -1,0 +1,19 @@
+# Entorno virtual y cachés de Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Todo lo que genera el pipeline: se regenera con un solo comando
+data/
+reportes/
+logs/
+mlflow.db
+mlruns/
+mlartifacts/
+mlflow_data/
+
+# Configuración local y archivos del sistema
+.env
+.DS_Store
